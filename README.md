@@ -1,4 +1,3 @@
-# totalitycorp-frontend-challenge
 Created an e-commerce website "Classy Buzz" using React JS,HTML,Tailwind CSS and Redux.
 The website consists of 10 pages including Home,About,Contact,Cart,Journal,Offer,payment,product details,Account:sign in and sign up.
 The home page consists of 8 components header,best sellers,new srrivals,Products ,sale,yearproduct,footer,special offers.
